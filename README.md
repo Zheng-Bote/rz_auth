@@ -85,7 +85,7 @@ ZHENG Robert
 
 > | Version | Date       | Developer | Comments |
 > | ------- | ---------- | --------- | -------- |
-> | 1.0.0   | 2024-06-02 | RZheng    | created  |
+> | 0.0.1   | 2024-06-02 | RZheng    | created  |
 
 ## Contributing
 
